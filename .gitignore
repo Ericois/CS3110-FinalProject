@@ -1,0 +1,20 @@
+
+# ocaml
+*.cmo
+*.cma
+*.cmi
+*.out
+*.cmx
+*.native
+*.byte
+_build
+
+# test coverage
+_coverage
+
+# temporary files
+*.swp
+*~
+\#*\#
+.DS_Store
+
